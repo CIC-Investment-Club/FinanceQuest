@@ -1,0 +1,119 @@
+{
+  "" : {
+    "diagnostics" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/FinanceQuest-primary.dia",
+    "emit-module-dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/FinanceQuest-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/FinanceQuest-primary-emit-module.dia",
+    "pch" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/FinanceQuest-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/FinanceQuest-primary.swiftdeps"
+  },
+  "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/leminh/Documents/VSC/FinanceQuest/FinanceQuest/FinanceQuestApp.swift" : {
+    "const-values" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/FinanceQuestApp.swiftconstvalues",
+    "dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/FinanceQuestApp.d",
+    "diagnostics" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/FinanceQuestApp.dia",
+    "index-unit-output-path" : "/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/FinanceQuestApp.o",
+    "llvm-bc" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/FinanceQuestApp.bc",
+    "object" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/FinanceQuestApp.o",
+    "swift-dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/FinanceQuestApp.swiftdeps",
+    "swiftmodule" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/FinanceQuestApp~partial.swiftmodule"
+  },
+  "/Users/leminh/Documents/VSC/FinanceQuest/FinanceQuest/Models/Curriculum.swift" : {
+    "const-values" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/Curriculum.swiftconstvalues",
+    "dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/Curriculum.d",
+    "diagnostics" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/Curriculum.dia",
+    "index-unit-output-path" : "/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/Curriculum.o",
+    "llvm-bc" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/Curriculum.bc",
+    "object" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/Curriculum.o",
+    "swift-dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/Curriculum.swiftdeps",
+    "swiftmodule" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/Curriculum~partial.swiftmodule"
+  },
+  "/Users/leminh/Documents/VSC/FinanceQuest/FinanceQuest/Models/UserProgress.swift" : {
+    "const-values" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/UserProgress.swiftconstvalues",
+    "dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/UserProgress.d",
+    "diagnostics" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/UserProgress.dia",
+    "index-unit-output-path" : "/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/UserProgress.o",
+    "llvm-bc" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/UserProgress.bc",
+    "object" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/UserProgress.o",
+    "swift-dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/UserProgress.swiftdeps",
+    "swiftmodule" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/UserProgress~partial.swiftmodule"
+  },
+  "/Users/leminh/Documents/VSC/FinanceQuest/FinanceQuest/Theme.swift" : {
+    "const-values" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/Theme.swiftconstvalues",
+    "dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/Theme.d",
+    "diagnostics" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/Theme.dia",
+    "index-unit-output-path" : "/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/Theme.o",
+    "llvm-bc" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/Theme.bc",
+    "object" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/Theme.o",
+    "swift-dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/Theme.swiftdeps",
+    "swiftmodule" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/Theme~partial.swiftmodule"
+  },
+  "/Users/leminh/Documents/VSC/FinanceQuest/FinanceQuest/ViewModels/GameViewModel.swift" : {
+    "const-values" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/GameViewModel.swiftconstvalues",
+    "dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/GameViewModel.d",
+    "diagnostics" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/GameViewModel.dia",
+    "index-unit-output-path" : "/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/GameViewModel.o",
+    "llvm-bc" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/GameViewModel.bc",
+    "object" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/GameViewModel.o",
+    "swift-dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/GameViewModel.swiftdeps",
+    "swiftmodule" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/GameViewModel~partial.swiftmodule"
+  },
+  "/Users/leminh/Documents/VSC/FinanceQuest/FinanceQuest/Views/Components/EconomistMascotView.swift" : {
+    "const-values" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/EconomistMascotView.swiftconstvalues",
+    "dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/EconomistMascotView.d",
+    "diagnostics" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/EconomistMascotView.dia",
+    "index-unit-output-path" : "/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/EconomistMascotView.o",
+    "llvm-bc" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/EconomistMascotView.bc",
+    "object" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/EconomistMascotView.o",
+    "swift-dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/EconomistMascotView.swiftdeps",
+    "swiftmodule" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/EconomistMascotView~partial.swiftmodule"
+  },
+  "/Users/leminh/Documents/VSC/FinanceQuest/FinanceQuest/Views/HomeView.swift" : {
+    "const-values" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/HomeView.dia",
+    "index-unit-output-path" : "/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/HomeView.swiftdeps",
+    "swiftmodule" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/HomeView~partial.swiftmodule"
+  },
+  "/Users/leminh/Documents/VSC/FinanceQuest/FinanceQuest/Views/LessonSessionView.swift" : {
+    "const-values" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/LessonSessionView.swiftconstvalues",
+    "dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/LessonSessionView.d",
+    "diagnostics" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/LessonSessionView.dia",
+    "index-unit-output-path" : "/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/LessonSessionView.o",
+    "llvm-bc" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/LessonSessionView.bc",
+    "object" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/LessonSessionView.o",
+    "swift-dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/LessonSessionView.swiftdeps",
+    "swiftmodule" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/LessonSessionView~partial.swiftmodule"
+  },
+  "/Users/leminh/Documents/VSC/FinanceQuest/FinanceQuest/Views/ProfileView.swift" : {
+    "const-values" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/ProfileView.swiftconstvalues",
+    "dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/ProfileView.d",
+    "diagnostics" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/ProfileView.dia",
+    "index-unit-output-path" : "/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/ProfileView.o",
+    "llvm-bc" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/ProfileView.bc",
+    "object" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/ProfileView.o",
+    "swift-dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/ProfileView.swiftdeps",
+    "swiftmodule" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/ProfileView~partial.swiftmodule"
+  },
+  "/Users/leminh/Documents/VSC/FinanceQuest/FinanceQuest/Views/RootTabView.swift" : {
+    "const-values" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/RootTabView.swiftconstvalues",
+    "dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/RootTabView.d",
+    "diagnostics" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/RootTabView.dia",
+    "index-unit-output-path" : "/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/RootTabView.o",
+    "llvm-bc" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/RootTabView.bc",
+    "object" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/RootTabView.o",
+    "swift-dependencies" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/RootTabView.swiftdeps",
+    "swiftmodule" : "/Users/leminh/Documents/VSC/FinanceQuest/DerivedData/Build/Intermediates.noindex/FinanceQuest.build/Debug-iphoneos/FinanceQuest.build/Objects-normal/arm64/RootTabView~partial.swiftmodule"
+  }
+}

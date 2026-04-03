@@ -1,0 +1,56 @@
+{
+  "source": "/Users/leminh/Documents/VSC/FinanceQuest/FinanceQuest/Views/ProfileView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Profile",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Dr. Thrift",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your guide through money basics",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "Level %lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "FinanceQuest teaches concepts for everyday confidence—not personalized financial advice. For big decisions, talk to a qualified professional.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 107
+        }
+      },
+      {
+        "comment": "",
+        "key": "Friendly reminder",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 104
+        }
+      }
+    ]
+  },
+  "version": 1
+}

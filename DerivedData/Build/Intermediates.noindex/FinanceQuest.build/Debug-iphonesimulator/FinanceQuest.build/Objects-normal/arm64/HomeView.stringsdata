@@ -1,0 +1,80 @@
+{
+  "source": "/Users/leminh/Documents/VSC/FinanceQuest/FinanceQuest/Views/HomeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "FinanceQuest",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your path",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "day",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 107
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 123
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 139
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld / 100 XP to the next level — finish lessons to climb faster!",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 176
+        }
+      },
+      {
+        "comment": "",
+        "key": "Level progress",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 157
+        }
+      },
+      {
+        "comment": "",
+        "key": "Level %lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 161
+        }
+      }
+    ]
+  },
+  "version": 1
+}

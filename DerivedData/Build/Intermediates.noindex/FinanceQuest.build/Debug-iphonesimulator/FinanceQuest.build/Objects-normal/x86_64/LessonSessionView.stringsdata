@@ -1,0 +1,96 @@
+{
+  "source": "/Users/leminh/Documents/VSC/FinanceQuest/FinanceQuest/Views/LessonSessionView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "QUESTION %lld OF %lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Continue",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 213
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld/%lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 103
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nice!",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 195
+        }
+      },
+      {
+        "comment": "",
+        "key": "Let’s learn",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 195
+        }
+      },
+      {
+        "comment": "",
+        "key": "+%lld XP",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 292
+        }
+      },
+      {
+        "comment": "",
+        "key": "Review the material and try again—you’ve got this.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 299
+        }
+      },
+      {
+        "comment": "",
+        "key": "Lesson complete!",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 283
+        }
+      },
+      {
+        "comment": "",
+        "key": "Out of hearts",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 283
+        }
+      },
+      {
+        "comment": "",
+        "key": "Keep learning",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 308
+        }
+      },
+      {
+        "comment": "",
+        "key": "Back to path",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 308
+        }
+      }
+    ]
+  },
+  "version": 1
+}
