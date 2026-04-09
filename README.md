@@ -1,4 +1,4 @@
-# FinanceQuest
+# FinanceQuest - IOS Version
 Investment Club's app for learning finance
 Notice: Only run on IOS platform(now in beta testing phase)
 How to run: 
